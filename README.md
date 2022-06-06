@@ -14,8 +14,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/single-price-grid-component-made-with-html-and-css-V9sh2e3Dy_)
+- Live Site URL: [Live link](https://adityaraj5200-sinlge-price-grid-component.netlify.app/)
 
 ## Overview
 
